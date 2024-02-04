@@ -1,6 +1,6 @@
 # HomeserverAutoLandingPage (HALP)
 
-**Disclaimer:** This script uses port scanning techniques. Use it responsibly and with authorized permission. Unauthorized port scanning may be considered illegal or intrusive.
+***Disclaimer: This script uses port scanning techniques. Use it responsibly and with authorized permission. Unauthorized port scanning may be considered illegal or intrusive.***
 
 **HALP automatically scans your home network, identifies web services running on your servers, and creates a visual web page to access them easily.**
 
