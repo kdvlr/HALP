@@ -13,6 +13,9 @@
 - Optionally hosts the HTML page on a built-in web server
 - Updates the information periodically
 
+## Screenshot
+![HALP Screenshot](./screenshot.png?raw=true "HALP-Screenshot")
+
 ## Configuration
 
 Refer to the `config.yaml` file for configuration options.
