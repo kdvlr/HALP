@@ -36,13 +36,13 @@ Run the script:
 You can also use `halp.sh` to start the script
 
 ## Instructions
-- Accessing the Landing Page:
+### Accessing the Landing Page:
 
 If you enabled the web server, access the landing page by opening http://localhost:8000 (or the specified port) in your web browser. 
 
 If you prefer to use your own web server, serve the www directory using a web server of your choice
 
-- Updates:
+### Updates:
 
 The script automatically updates the information periodically. You can also manually trigger an update by restarting the script.
 
@@ -58,4 +58,3 @@ Configuration Options:
 
 Additional Information
 The script logs its activity to two log files: halp.log and halp_ws.log.
-The script automatically creates an assets directory to store downloaded favicons.
