@@ -1,0 +1,13 @@
+#cidr_ranges: "192.168.100.219,192.168.100.1,192.168.100.45,192.168.100.36"
+cidr_ranges: "192.168.100.0/24,192.168.120.0/24,192.168.140.0/24"
+num_threads: 100
+web_server_port: 8000  # The port where the web server will run
+output_directory: './www'  # Directory where the HTML file will be saved and served
+enable_webserver: false
+output_file: "web_servers.html"
+update_interval_hours: 24  # Update interval in hours
+log_settings:
+  main_log_file: 'halp.log'
+  main_log_level: 'DEBUG'
+  web_server_log_file: 'halp_ws.log'
+  web_server_log_level: 'DEBUG'
